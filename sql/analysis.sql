@@ -1,3 +1,5 @@
+                  <-- SQL ANALYSIS -->
+
 <--- 1. Total Sales & Profit ---> 
 
  SELECT 
